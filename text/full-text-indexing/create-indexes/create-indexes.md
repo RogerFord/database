@@ -82,7 +82,7 @@ In this lab, you will:
 
     Database Actions allows you to connect to your Autonomous Database through various browser-based tools. We will just be using the SQL workshop tool.
 
-## Task 2: Create and populate a simple table
+## Task 2: Create and Populate a Simple Table
 
 1. You should be in the Database Actions panel. Click on the **SQL** card
 
